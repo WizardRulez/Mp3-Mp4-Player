@@ -16,9 +16,10 @@ If You Want To Find The Source Code Of This Mp3-Mp4 Player This Also Has Instruc
 
 https://github.com/WizardRulez/Mp3-Mp4-Player-Source_Code
 
-If You Are Looking For A Live Demo Of This Player It Is. If At Any Time It Stops Working Or Is Down It Should Be Back Up Withen 5-10 Minutes If Not And It Is Still Down Email me My Email is at the bottom
+If You Are Looking For A Live Demo Of This Player It Is. If At Any Time It Stops Working Or Is Down It Should Be Back Up Withen 5-10 Minutes If Not And It Is Still Down Email me My Email is at the bottom.
+This Link Takes You To The Code Of The Live Demo In there i will have the live demo linked
 
-https://wizardrulez.github.io/
+https://github.com/WizardRulez/wizardrulez.github.io/
 
 
 The Song's That I Provided For The Default Testing
